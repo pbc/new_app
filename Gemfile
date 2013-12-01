@@ -46,6 +46,5 @@ end
 
 
 
-gem "therubyracer"
 gem "mysql2"
 
